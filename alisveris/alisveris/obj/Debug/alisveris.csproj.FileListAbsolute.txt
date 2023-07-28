@@ -1,0 +1,36 @@
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\bin\Debug\alisveris.exe.config
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\bin\Debug\alisveris.exe
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\bin\Debug\alisveris.pdb
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmAna.resources
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.Properties.Resources.resources
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.csproj.GenerateResource.Cache
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.exe
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.pdb
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmUrun.resources
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmMusteri.resources
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.csprojResolveAssemblyReference.cache
+C:\Users\Yunus Emre\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmAlisVeris.resources
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\bin\Debug\alisveris.exe.config
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\bin\Debug\alisveris.exe
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\bin\Debug\alisveris.pdb
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.csprojResolveAssemblyReference.cache
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmAlisVeris.resources
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmAna.resources
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmMusteri.resources
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmUrun.resources
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.Properties.Resources.resources
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.csproj.GenerateResource.Cache
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.exe
+E:\Dokümanlar\Dersler\C #\C# VT\alisveris\alisveris\alisveris\obj\Debug\alisveris.pdb
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\bin\Debug\alisveris.exe.config
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.exe
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.pdb
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\bin\Debug\alisveris.exe
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\bin\Debug\alisveris.pdb
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.csprojResolveAssemblyReference.cache
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmAlisVeris.resources
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmAna.resources
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmMusteri.resources
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.frmUrun.resources
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.Properties.Resources.resources
+C:\Users\kullanıc1\Desktop\alisveris\alisveris\alisveris\obj\Debug\alisveris.csproj.GenerateResource.Cache
